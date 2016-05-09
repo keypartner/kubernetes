@@ -1,5 +1,5 @@
 # Script to run and stop Kubernetes on Docker Host with Vagrant 
-The scripts follow the instruction how to run Kubernetes locally via Docker at [here] (http://kubernetes.io/docs/getting-started-guides/docker/)
+The scripts follow the instruction how to run Kubernetes locally via Docker at [Kubernetes] (http://kubernetes.io/docs/getting-started-guides/docker/)
 - You must have a Linux Host with Docker.
 
 ## Create folder 
